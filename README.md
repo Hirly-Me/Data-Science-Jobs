@@ -4,7 +4,7 @@
 
 Open data scientist and data science jobs.
 
-**4,274 open jobs** match this list today; the newest 250 are below, newest first. Last updated Oct 23, 2026.
+**4,187 open jobs** match this list today; the newest 250 are below, newest first. Last updated Oct 23, 2026.
 
 > **Get matched to these jobs.** Upload your resume on [hirly](https://hirly.me/?utm_source=github&utm_medium=joblist&utm_campaign=data-science-jobs&utm_content=cta) to see how it matches roles like these.
 
@@ -85,7 +85,6 @@ Open data scientist and data science jobs.
 | Barclays | AI/ML Data Scientist | Gurugram, DLF Downtown · India | 2026-10-22 | [Apply](https://hirly.me/jobs/ai-ml-data-scientist-at-barclays-cf8bcb8d-a70b-452e-a29a-f25ef135e2f2?utm_source=github&utm_medium=joblist&utm_campaign=data-science-jobs) |
 | Cloudflare | Data Scientist | In-Office · India | 2026-10-22 | [Apply](https://hirly.me/jobs/data-scientist-at-cloudflare-e1689b83-9941-4e20-8ca4-6ea183f19c38?utm_source=github&utm_medium=joblist&utm_campaign=data-science-jobs) |
 | SkanAI | Sr. Data Scientist | Bengaluru · India | 2026-10-22 | [Apply](https://hirly.me/jobs/sr-data-scientist-at-skanai-2ddbea83-8eee-4160-bd7e-a6d5823801c3?utm_source=github&utm_medium=joblist&utm_campaign=data-science-jobs) |
-| Cursor | Data Scientist, Marketing | San Francisco · United States | 2026-10-22 | [Apply](https://hirly.me/jobs/data-scientist-marketing-at-cursor-1f9848b4-b053-4edb-8915-5fcbca86de1a?utm_source=github&utm_medium=joblist&utm_campaign=data-science-jobs) |
 | Gen Digital Inc. | Data Scientist (Decision Science) | MYS · Malaysia | 2026-10-22 | [Apply](https://hirly.me/jobs/data-scientist-decision-science-at-gen-digital-inc-11d2e577-449c-425c-9141-f56c72df947a?utm_source=github&utm_medium=joblist&utm_campaign=data-science-jobs) |
 | Wexinc | Principal Data Scientist, Payments Intelligence | Remote · United States | 2026-10-22 | [Apply](https://hirly.me/jobs/principal-data-scientist-payments-intelligence-at-wexinc-227a2f5a-1c47-47f0-bc36-5333f74a6d8b?utm_source=github&utm_medium=joblist&utm_campaign=data-science-jobs) |
 | New Balance | Data Scientist - Forecasting | Boston, MA Headquarters - (NB) · Canada | 2026-10-22 | [Apply](https://hirly.me/jobs/data-scientist-forecasting-at-newbalance-c2c2c7b1-3abe-4fad-94d4-b15e398b4517?utm_source=github&utm_medium=joblist&utm_campaign=data-science-jobs) |
@@ -97,12 +96,16 @@ Open data scientist and data science jobs.
 | CHG Healthcare | Data Scientist | Salt Lake City, UT +1 · United States | 2026-10-22 | [Apply](https://hirly.me/jobs/data-scientist-at-chghealthcare-322d7bc1-2942-4385-944a-cd1570c2426c?utm_source=github&utm_medium=joblist&utm_campaign=data-science-jobs) |
 | Capital One | Senior Associate, Data Scientist - Alternative Data Strategy | McLean, VA +1 · United States | 2026-10-22 | [Apply](https://hirly.me/jobs/senior-associate-data-scientist-alternative-data-strategy-at-capitalone-aaca0d7c-63e7-4012-9006-2fb40917fc55?utm_source=github&utm_medium=joblist&utm_campaign=data-science-jobs) |
 | Capital One | Manager, Data Scientist - Alternative Data Strategy | New York, NY +3 · United States | 2026-10-22 | [Apply](https://hirly.me/jobs/manager-data-scientist-alternative-data-strategy-at-capitalone-f5c1c2a8-f2aa-4331-a68a-210db40cae45?utm_source=github&utm_medium=joblist&utm_campaign=data-science-jobs) |
+| BSC | Data Scientist, Consultant | Oakland, CA +23 · United States | 2026-10-22 | [Apply](https://hirly.me/jobs/data-scientist-consultant-at-bsc-459493ea-42d2-4061-a2d8-f9ff42c5f5ec?utm_source=github&utm_medium=joblist&utm_campaign=data-science-jobs) |
 | JPMorgan Chase | 2027 Asset Management Data Scientist - Summer Associate | New York, NY · United States | 2026-10-22 | [Apply](https://hirly.me/jobs/2027-asset-management-data-scientist-summer-associate-at-jpmorgan-chase-68751641-453c-4fd2-9114-9f2a4f00bc0f?utm_source=github&utm_medium=joblist&utm_campaign=data-science-jobs) |
 | Amazon | Data Scientist, Fleet Planning , Global Fleet Products | Bellevue, Washington · United States | 2026-10-22 | [Apply](https://hirly.me/jobs/data-scientist-fleet-planning-global-fleet-products-at-amazon-6ef75dac-562c-4b07-8310-fec0c1db1c09?utm_source=github&utm_medium=joblist&utm_campaign=data-science-jobs) |
 | American Express | Senior Analyst - Data Science | Singapore | 2026-10-22 | [Apply](https://hirly.me/jobs/senior-analyst-data-science-at-american-express-846b1b7c-1929-4d22-9d10-deb45da3e05e?utm_source=github&utm_medium=joblist&utm_campaign=data-science-jobs) |
 | Oceaneering | Principal Data Scientist | Chandigarh · India | 2026-10-22 | [Apply](https://hirly.me/jobs/principal-data-scientist-at-oceaneering-9efa2ca6-761e-4377-87f9-de683d0c33db?utm_source=github&utm_medium=joblist&utm_campaign=data-science-jobs) |
 | Mayo US | Associate Data Science Analyst (Limited Tenure) | Jacksonville, FL · United States | 2026-10-22 | [Apply](https://hirly.me/jobs/associate-data-science-analyst-limited-tenure-at-mayo-us-a9db0a6b-9d95-4239-9fdf-9d23f52f323d?utm_source=github&utm_medium=joblist&utm_campaign=data-science-jobs) |
+| SAIC | SME Data Scientist Lead | Scott Afb, IL · United States | 2026-10-22 | [Apply](https://hirly.me/jobs/sme-data-scientist-lead-at-saic-c4d49774-f4b7-4f21-b25e-0b3f83561549?utm_source=github&utm_medium=joblist&utm_campaign=data-science-jobs) |
+| Southern Company | Principal Data Scientist | Atlanta, GA · United States | 2026-10-22 | [Apply](https://hirly.me/jobs/principal-data-scientist-at-southern-company-d0355623-502e-457c-9cbf-ddb295f0fa01?utm_source=github&utm_medium=joblist&utm_campaign=data-science-jobs) |
 | JPMorgan Chase | Data Scientist \[Multiple Positions Available\] | Plano, TX · United States | 2026-10-22 | [Apply](https://hirly.me/jobs/data-scientist-multiple-positions-available-at-jpmorgan-chase-dba381a6-90af-4051-8900-a82248cfe85f?utm_source=github&utm_medium=joblist&utm_campaign=data-science-jobs) |
+| Ford Global | Machine Learning Engineer Data Scientist | Naucalpan de Juarez, MEX · Mexico | 2026-10-22 | [Apply](https://hirly.me/jobs/machine-learning-engineer-data-scientist-at-ford-global-f02105c9-01fd-459e-bab9-49639c234359?utm_source=github&utm_medium=joblist&utm_campaign=data-science-jobs) |
 | Genpact | Sr. Data Scientist 4B | 1401-G-India: ISD Phase V, Sector 53 · Croatia | 2026-10-21 | [Apply](https://hirly.me/jobs/sr-data-scientist-4b-at-genpact-f1272231-acfa-4d37-8913-0fbf51c4f8a4?utm_source=github&utm_medium=joblist&utm_campaign=data-science-jobs) |
 | Kiavi | Senior Data Scientist | Remote | 2026-10-21 | [Apply](https://hirly.me/jobs/senior-data-scientist-at-kiavi-e1b344b0-1de6-4084-8f53-c607d503d712?utm_source=github&utm_medium=joblist&utm_campaign=data-science-jobs) |
 | Reddit | Senior Data Scientist, Safety Enforcement | Remote · United States | 2026-10-21 | [Apply](https://hirly.me/jobs/senior-data-scientist-safety-enforcement-at-reddit-98f59c8f-9c64-490d-b6de-3799eb9bbe73?utm_source=github&utm_medium=joblist&utm_campaign=data-science-jobs) |
@@ -192,6 +195,7 @@ Open data scientist and data science jobs.
 | BIP | Data Scientist | Milano, Lombardia · Italy | 2026-10-21 | [Apply](https://hirly.me/jobs/data-scientist-at-bip-650ff49a-c983-4811-97ae-b374dc1e780c?utm_source=github&utm_medium=joblist&utm_campaign=data-science-jobs) |
 | BIP | Senior Data Scientist | Tirana · Albania | 2026-10-21 | [Apply](https://hirly.me/jobs/senior-data-scientist-at-bip-78153403-efb4-426f-8843-c68a1c23001f?utm_source=github&utm_medium=joblist&utm_campaign=data-science-jobs) |
 | BIP | Data Scientist Expert | Bari, Puglia · Italy | 2026-10-21 | [Apply](https://hirly.me/jobs/data-scientist-expert-at-bip-ba4a7d34-c08c-4517-8a0a-4d055e6d42e1?utm_source=github&utm_medium=joblist&utm_campaign=data-science-jobs) |
+| BSC | Data Scientist, Principal - AI Product Engineering | Oakland, CA +23 · United States | 2026-10-21 | [Apply](https://hirly.me/jobs/data-scientist-principal-ai-product-engineering-at-bsc-cd33d0ef-82ee-4930-bcc5-32af78c7b973?utm_source=github&utm_medium=joblist&utm_campaign=data-science-jobs) |
 | BIP | Data Scientist | Bari, Puglia · Italy | 2026-10-21 | [Apply](https://hirly.me/jobs/data-scientist-at-bip-ec537d24-078a-4c03-815b-19edb43fbdae?utm_source=github&utm_medium=joblist&utm_campaign=data-science-jobs) |
 | BIP | Data Scientist Expert | Milano, Lombardia · Italy | 2026-10-21 | [Apply](https://hirly.me/jobs/data-scientist-expert-at-bip-f5abcd28-e5fe-4c61-af78-b0113f0be902?utm_source=github&utm_medium=joblist&utm_campaign=data-science-jobs) |
 | EXL | Data Scientist | Bengaluru, Karnataka · India | 2026-10-21 | [Apply](https://hirly.me/jobs/data-scientist-at-exl-f8062fd3-5b58-4328-8530-5738a6d04e28?utm_source=github&utm_medium=joblist&utm_campaign=data-science-jobs) |
@@ -256,14 +260,10 @@ Open data scientist and data science jobs.
 | Launch Potato | Lead Data Scientist, AdTech | United States (remote) · United States | 2026-10-20 | [Apply](https://hirly.me/jobs/lead-data-scientist-adtech-at-launchpotato-546789fe-3764-4ae8-a013-1f36b57de795?utm_source=github&utm_medium=joblist&utm_campaign=data-science-jobs) |
 | Thermofisher | Sr. Manager, Data Engineering &amp; Applied Data Science | Carlsbad, California +2 · United States | 2026-10-20 | [Apply](https://hirly.me/jobs/sr-manager-data-engineering-applied-data-science-at-thermofisher-b776e69c-6c8c-4c2a-9055-14e7db6f858e?utm_source=github&utm_medium=joblist&utm_campaign=data-science-jobs) |
 | X, bigly labs | Senior Data Scientist | Melrose Arch (Hybrid) | 2026-10-20 | [Apply](https://hirly.me/jobs/senior-data-scientist-at-x-bigly-labs-988ffd02-017e-4835-b4dd-0067418867b3?utm_source=github&utm_medium=joblist&utm_campaign=data-science-jobs) |
-| Akamai | Senior II Data Scientist | Spain | 2026-10-20 | [Apply](https://hirly.me/jobs/senior-ii-data-scientist-at-akamai-a49474cc-180f-490b-b1af-825a1bcfefd2?utm_source=github&utm_medium=joblist&utm_campaign=data-science-jobs) |
-| EY | Government and Infrastructure - AI and Data - Data Scientist - Top Secret Clearance | McLean, VA · United States | 2026-10-20\* | [Apply](https://hirly.me/jobs/government-and-infrastructure-ai-and-data-data-scientist-top-secret-clearance-at-f4babddf-4db6-4731-a324-66d7c32da052?utm_source=github&utm_medium=joblist&utm_campaign=data-science-jobs) |
-| Capgemini | Senior Data Scientist | Atlanta · United States | 2026-10-20\* | [Apply](https://hirly.me/jobs/senior-data-scientist-at-capgemini-0bc29fcc-c90d-4b55-8650-97fc116d2d0c?utm_source=github&utm_medium=joblist&utm_campaign=data-science-jobs) |
-| frog | frog - Consultant/Senior Consultant - Data Science (Customer Data) | London · United Kingdom | 2026-10-20\* | [Apply](https://hirly.me/jobs/frog-consultant-senior-consultant-data-science-customer-data-at-frog-fa51ac7b-082e-48fc-8f03-7099beff0e84?utm_source=github&utm_medium=joblist&utm_campaign=data-science-jobs) |
 
 \* The employer’s page gives no posting date; this is the day hirly first saw the job.
 
-Looking for the other 4,024? [Search every open job on hirly](https://hirly.me/jobs?utm_source=github&utm_medium=joblist&utm_campaign=data-science-jobs&utm_content=more).
+Looking for the other 3,937? [Search every open job on hirly](https://hirly.me/jobs?utm_source=github&utm_medium=joblist&utm_campaign=data-science-jobs&utm_content=more).
 
 ## How this list is built
 
