@@ -4,7 +4,7 @@
 
 Open data scientist and data science jobs.
 
-**3,685 open jobs** match this list today; the newest 250 are below, newest first. Last updated Nov 12, 2026.
+**3,685 open jobs** match this list today; the newest 250 are below, newest first. Last updated Nov 13, 2026.
 
 > **Get matched to these jobs.** Upload your resume on [hirly](https://hirly.me/?utm_source=github&utm_medium=joblist&utm_campaign=data-science-jobs&utm_content=cta) to see how it matches roles like these.
 
